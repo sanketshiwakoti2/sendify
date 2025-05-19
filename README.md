@@ -31,7 +31,7 @@ Sendify is a file-sharing application that enables users to upload large files a
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/sendify.git
+   git clone https://github.com/sanketshiwakoti2/sendify.git
    cd sendify
    ```
 
