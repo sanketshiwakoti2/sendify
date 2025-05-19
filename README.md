@@ -103,9 +103,6 @@ Sendify is a file-sharing application that enables users to upload large files a
 
 Files are automatically deleted based on the expiration time set in the `.env` file. This ensures that files are not stored indefinitely, helping to save server space.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
@@ -116,4 +113,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to modify the contents based on your specific requirements, and remember to replace placeholders such as `your-username` with your actual GitHub username or other personal details.
